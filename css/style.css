@@ -1,0 +1,145 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Kings&display=swap');
+.nav{
+    background-color: rgba(0, 0, 0, 0.486);
+}
+
+.container-text{
+    margin-right: 0px;
+}
+body{
+    background-image:url("/images/backgoung.jpg");
+    background-repeat: repeat;
+}
+#content{
+    margin: 0px;
+}
+#box1{
+    padding-top: 5%;
+    background-color: rgba(0, 0, 0, 0.137);
+
+}
+#pasywa{
+    border: 2px solid;
+    border-color: rgb(110, 3, 110);
+    margin-bottom: 5px;
+    background-color: rgba(0, 0, 0, 0.596);
+}
+#skil_q{
+    border: 2px solid;
+    border-color: rgb(110, 3, 110);
+    margin-bottom: 5px;
+    background-color: rgba(0, 0, 0, 0.596);
+}
+#skil_w{
+    border: 2px solid;
+    border-color: rgb(110, 3, 110);
+    margin-bottom: 5px;
+    background-color: rgba(0, 0, 0, 0.596);
+}
+#skil_e{
+    border: 2px solid;
+    border-color: rgb(110, 3, 110);
+    margin-bottom: 5px;
+    background-color: rgba(0, 0, 0, 0.596);
+}
+#skil_r{
+    border: 2px solid;
+    border-color: rgb(110, 3, 110);
+    margin-bottom: 5px;
+    background-color: rgba(0, 0, 0, 0.596);
+}
+.img-fluid{
+    border-bottom: 10px solid;
+    border-color:black ;
+}
+#skil_r{
+    margin-bottom: 100px;
+}
+p{
+    color: white;
+    text-shadow: black;
+    text-decoration-color: black;
+
+}
+#skile{
+    padding: 0;
+}
+h1{
+    color: white;
+}
+#style{
+    padding-top: 20px;
+    text-align: center;
+}
+.text-start{
+    margin: 0px;
+}
+#padding{
+    padding-top: 20px;
+    padding-left:20px;
+}
+#karuzela{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.carousel-inner{
+    border-top: 2px solid;
+    border-bottom: 2px solid;
+    border-left: 2px solid;
+    border-right: 2px solid;
+    border-color: rgb(196, 65, 5);
+}
+#tytul{
+    text-align: center;
+}
+h1{
+    
+    font-family: 'Kings', cursive;
+}
+#h1{
+    text-align: center;
+}
+button{
+    width: 64px;
+    height: 64px;
+    padding: 0px !important;
+    border: none !important;
+
+}
+#opis{
+    
+    background-color: black;
+    width: 100%;
+    position:static
+}
+#opiss{
+    width: 100%;
+    height: 50px;
+    position: static;
+    padding: 0px;
+}
+.tab{
+    width: 100%;
+    height:100%
+}
+.modal-body{
+    background-color: black;
+}
+.modal-footer{
+    background-color: black;
+}
+.modal-header{
+    color: rgb(255, 255, 255);
+    background-color: black;
+}
+.btn-btn-secondary{
+    color: rgb(226, 13, 13);
+}
+#boxx{
+    text-align: center;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.308);
+    padding:0px;
+}
